@@ -1,0 +1,5 @@
+{
+    "editor.fontSize": 20,
+    "editor.accessibilityPageSize": 500,
+    "livePreview.defaultPreviewPath": "/client/app.html"
+}
