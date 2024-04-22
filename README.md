@@ -1,4 +1,5 @@
-![image](https://github.com/AreenJain/BangloreHomePricesPrediction/assets/132453646/b64bbb65-84f9-456a-82eb-9e33bfd73b26)
+![bhpp](https://github.com/AreenJain/BangloreHomePricesPrediction/assets/132453646/cb64ac32-0765-4892-a024-d6be2f6450a4)
+
 
 This Project is a data science project that aims to create a machine learning model to predict the selling price of a 
 house based on various factors such as location, size, condition, etc.
